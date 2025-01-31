@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  font-family: "Times New Roman", Times, serif;
+
+  /* background-image: linear-gradient(green, yellow); */
+}

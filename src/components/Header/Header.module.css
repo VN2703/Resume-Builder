@@ -1,0 +1,31 @@
+.container {
+  padding: 50px 30px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 30px;
+  background-color: rgb(194, 232, 194);
+  min-height: 80px;
+}
+.heading {
+  margin: 0 auto;
+  max-width: 450px;
+  color: black;
+  /* color: transparent; */
+  font-size: 3.1rem;
+  line-height: 4.1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.heading span {
+  background-clip: text;
+
+  background-image: linear-gradient(rgb(58, 171, 120), rgb(47, 105, 45));
+  color: transparent;
+}
+.right img {
+  width: 400px;
+  max-width: 70%;
+}
